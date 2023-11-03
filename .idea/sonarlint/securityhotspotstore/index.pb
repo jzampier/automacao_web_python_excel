@@ -19,3 +19,6 @@ A
 06_text_editor.py,5\f\5f0d3d5b6866973457c9f8c448d5d4cdb8734251
 A
 preencher_form.py,a\4\a46232b472a33179d0912e3258eacf9cf29dec99
+:
+
+.gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
